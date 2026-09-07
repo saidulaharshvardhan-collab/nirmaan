@@ -1,0 +1,15 @@
+{
+  "installCommand": "npm ci --ignore-scripts",
+  "buildCommand": "npm run build",
+  "builds": [
+    {
+      "src": "client/package.json",
+      "use": "@vercel/static-build",
+      "config": { "distDir": "client/dist" }
+    }
+  ],
+
+  "env": {
+    "VITE_SOCKET_URL": "https://nirmaan-api.onrender.com"
+  }
+}
