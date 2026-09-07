@@ -70,7 +70,7 @@ app.use('/uploads', express.static(uploadsPath));
 app.get('/health', (req, res) => {
   res.status(200).json({
     status: 'UP',
-    name: 'GramUtthan API Service',
+    name: 'Nirmaan API Service',
     ministry: 'Government of Jharkhand',
     problemStatement: 'SIH26043',
     timestamp: new Date().toISOString()
@@ -98,7 +98,7 @@ async function startServer() {
 
     server.listen(PORT, () => {
       console.log(`=======================================================`);
-      console.log(`🚀 GramUtthan API running on http://localhost:${PORT}`);
+      console.log(`🚀 Nirmaan API running on http://localhost:${PORT}`);
       console.log(`🇮🇳 SIH26043 — Government of Jharkhand`);
       console.log(`💡 Mode: ${process.env.DEMO_MODE === 'true' ? 'DEMO_MODE (Zero-Config)' : 'PRODUCTION'}`);
       console.log(`=======================================================`);
