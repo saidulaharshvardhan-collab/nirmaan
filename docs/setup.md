@@ -1,4 +1,4 @@
-# GramUtthan — Local Setup & Deployment Guide
+# Nirmaan — Local Setup & Deployment Guide
 **Smart India Hackathon Problem Statement:** SIH26043  
 **Ministry:** Government of Jharkhand  
 

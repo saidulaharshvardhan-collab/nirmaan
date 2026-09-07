@@ -26,7 +26,7 @@ export const ArchitecturePresentationPage: React.FC = () => {
     {
       number: 1,
       tag: 'Introduction',
-      title: 'GramUtthan — Crowdsourced Social Innovation Network',
+      title: 'Nirmaan — Crowdsourced Social Innovation Network',
       subtitle: 'Smart India Hackathon • SIH26043 • Government of Jharkhand',
       bullets: [
         'Bridging the critical gap between rural civic infrastructure problems and state university engineering capacity.',

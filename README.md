@@ -1,4 +1,4 @@
-# GramUtthan — Crowdsourced Social Innovation Network
+# Nirmaan — Crowdsourced Social Innovation Network
 ### Smart India Hackathon • Problem Statement SIH26043 • Government of Jharkhand
 **"From Rural Problems to Real-World Solutions"**
 
@@ -10,8 +10,8 @@
 
 ---
 
-## What is GramUtthan?
-GramUtthan is a fully functioning, end-to-end civic-tech prototype engineered for the Government of Jharkhand. It bridges the gap between fragmented rural challenges and state university research institutions through a verified loop:
+## What is Nirmaan?
+Nirmaan is a fully functioning, end-to-end civic-tech prototype engineered for the Government of Jharkhand. It bridges the gap between fragmented rural challenges and state university research institutions through a verified loop:
 
 $$\textbf{REPORT} \longrightarrow \textbf{UNDERSTAND} \longrightarrow \textbf{MATCH} \longrightarrow \textbf{RESOLVE} \longrightarrow \textbf{VERIFY} \longrightarrow \textbf{REWARD}$$
 

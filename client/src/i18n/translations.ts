@@ -74,7 +74,7 @@ export interface TranslationSchema {
 
 export const translations: Record<SupportedLanguage, TranslationSchema> = {
   en: {
-    appName: 'GramUtthan',
+    appName: 'Nirmaan',
     tagline: 'Crowdsourced Social Innovation Network — Government of Jharkhand',
     nav: {
       home: 'Home',
@@ -91,7 +91,7 @@ export const translations: Record<SupportedLanguage, TranslationSchema> = {
     },
     hero: {
       title: 'From Rural Problems to Real-World Solutions.',
-      subtitle: 'GramUtthan connects communities, universities, researchers, and government to identify, solve, and verify rural challenges across Jharkhand.',
+      subtitle: 'Nirmaan connects communities, universities, researchers, and government to identify, solve, and verify rural challenges across Jharkhand.',
       reportCta: 'Report a Problem',
       exploreCta: 'Explore Problems'
     },
@@ -287,7 +287,7 @@ export const translations: Record<SupportedLanguage, TranslationSchema> = {
     }
   },
   sat: {
-    appName: 'GramUtthan (ᱥᱟᱱᱛᱟᱲᱤ)',
+    appName: 'Nirmaan (ᱥᱟᱱᱛᱟᱲᱤ)',
     tagline: 'ᱟᱹᱛᱩ ᱩᱛᱱᱟᱹᱣ ᱥᱟᱶᱛᱟ ᱱᱮᱴᱣᱟᱨᱠ — ᱡᱷᱟᱨᱠᱷᱚᱸᱰ ᱥᱚᱨᱠᱟᱨ',
     nav: {
       home: 'ᱢᱩᱬᱩᱛ (Home)',
@@ -358,7 +358,7 @@ export const translations: Record<SupportedLanguage, TranslationSchema> = {
     }
   },
   mun: {
-    appName: 'GramUtthan (Mundari)',
+    appName: 'Nirmaan (Mundari)',
     tagline: 'Hatu Utthan Samajik Sanstha — Jharkhand Sarkar',
     nav: {
       home: 'Oro',
@@ -375,7 +375,7 @@ export const translations: Record<SupportedLanguage, TranslationSchema> = {
     },
     hero: {
       title: 'Hatu Taklif Khen Sari Solhe Habij.',
-      subtitle: 'GramUtthan connecting communities, universities, and Jharkhand government.',
+      subtitle: 'Nirmaan connecting communities, universities, and Jharkhand government.',
       reportCta: 'Taklif Ol Me',
       exploreCta: 'Taklif Nel Me'
     },
@@ -429,7 +429,7 @@ export const translations: Record<SupportedLanguage, TranslationSchema> = {
     }
   },
   ho: {
-    appName: 'GramUtthan (Ho)',
+    appName: 'Nirmaan (Ho)',
     tagline: 'Hatu Pragati Network — Jharkhand Sarkar',
     nav: {
       home: 'Home',
@@ -446,7 +446,7 @@ export const translations: Record<SupportedLanguage, TranslationSchema> = {
     },
     hero: {
       title: 'Hatu Taklif Aete Sari Baiy-Ruar Habij.',
-      subtitle: 'GramUtthan connecting Ho hamlets, universities, and Jharkhand state.',
+      subtitle: 'Nirmaan connecting Ho hamlets, universities, and Jharkhand state.',
       reportCta: 'Taklif Kaji Me',
       exploreCta: 'Map Nel Me'
     },

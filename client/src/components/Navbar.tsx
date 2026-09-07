@@ -46,7 +46,7 @@ export const Navbar: React.FC = () => {
               <div className="flex flex-col">
                 <div className="flex items-center gap-1.5">
                   <span className="font-extrabold text-lg tracking-tight text-slate-900 font-sans">
-                    GramUtthan
+                    Nirmaan
                   </span>
                   <span className="text-[10px] uppercase font-bold px-1.5 py-0.5 rounded bg-amber-100 text-amber-800 border border-amber-300">
                     SIH26043
